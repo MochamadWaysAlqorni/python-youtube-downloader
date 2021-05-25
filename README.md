@@ -7,3 +7,5 @@ ytdownloader
 #d. run file yt-dw.py [klik 2x] atau run via terminal di dalam direktori "YTdownload-py". <br />
 #e. ikuti step pada aplikasi. <br />
 #f. file hasil download ada di folder unduhan. <br />
+"Penulis : Mochamad Ways Alqorni"  
+"Credit : https://pytube.io > library"  
