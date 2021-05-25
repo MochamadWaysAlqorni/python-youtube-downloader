@@ -1,9 +1,9 @@
 # yt-dw
 ytdownloader
 
--1. Download Zip-nya
-0. wajib add python dan pip di path environtment variable. kalo udah skip aja.
-1. install lib, command : pip3 install pytube.
-2. run file yt-dw.py [klik 2x] atau run via terminal di dalam direktori "YTdownload-py".
-3. ikuti step pada aplikasi.
-4. file hasil download ada di folder unduhan.
+a. Download Zip-nya
+b. wajib add python dan pip di path environtment variable. kalo udah skip aja.
+c. install lib, command : pip3 install pytube.
+d. run file yt-dw.py [klik 2x] atau run via terminal di dalam direktori "YTdownload-py".
+e. ikuti step pada aplikasi.
+f. file hasil download ada di folder unduhan.
